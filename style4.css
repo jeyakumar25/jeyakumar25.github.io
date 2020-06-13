@@ -1,0 +1,33 @@
+body{
+ 	background-image: url(fitness.jpg);
+ 	background-size: cover;
+ 	height: 100%;
+}
+h1{
+	color: rgba( 255, 13, 132, 0.7);
+	font-size: 2rem;
+	margin-top: 200px;
+
+}
+hr{
+	background-color:  orange;
+	height: 2px;
+	width: 150px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.btn{
+	background-color: orange;
+	border-radius: 30px;
+	border-color: orange;
+	color: blue;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 1rem 2rem;
+}
+.btn:hover{
+	background-color: #FF6E14;
+	border-width: 5px;
+	border-color: #FF6E14;
+	color: white;
+}
